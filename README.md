@@ -10,3 +10,5 @@ La funcionalidad principal de la aplicación incluye:
 Para ejecutar la aplicación web, simplemente clona este repositorio, instala las dependencias necesarias y ejecuta el archivo app.py. ¡Disfruta explorando los datos de anuncios de venta de vehículos!
 
 https://dashboard.render.com/web/srv-cp3fd90l6cac73f4iq0g
+
+http://0.0.0.0:10000
